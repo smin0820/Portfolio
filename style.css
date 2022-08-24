@@ -1,0 +1,26 @@
+/* Global */
+:root {
+    /* Color */
+    --color--black: #000000;
+    --color--white: #ffffff;
+
+    /* Font size */
+    --font--small: 16px;
+    --font--regular: 18px;
+    --font--midium: 28px;
+    --font--large: 48px;
+
+    /* Font weight */
+    --weight--light: 200;
+    --weight--regular: 400;
+    --weight--bold: 600;
+    --weight--extrabold: 800;
+
+    /* Size */
+
+}
+
+/* Universal tages */
+* {
+    box-sizing: border-box;
+}
